@@ -1,32 +1,32 @@
 # 🌟 GitHub Trending Top 10 (2026-01-29)
 
-## 1. [awesome-moltbot-skills](https://github.com/VoltAgent/awesome-moltbot-skills)
-> The awesome collection of Moltbot Skills. (Clawdbot has officially been renamed to Moltbot)
+## 1. [moltbot](https://github.com/moltbot/moltbot)
+> Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 
-## 2. [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
-> 无项目描述
+## 2. [pi-mono](https://github.com/badlogic/pi-mono)
+> AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 
-## 3. [skills](https://github.com/antfu/skills)
-> Anthony Fu's curated collection of agent skills.
+## 3. [vault](https://github.com/hashicorp/vault)
+> A tool for secrets management, encryption as a service, and privileged access management
 
-## 4. [last30days-skill](https://github.com/mvanhorn/last30days-skill)
-> Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts
+## 4. [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+> Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 
-## 5. [posturr](https://github.com/tldev/posturr)
-> A macOS app that blurs your screen when you slouch. Uses Vision framework for real-time posture detection.
+## 5. [memU](https://github.com/NevaMind-AI/memU)
+> Memory for 24/7 proactive agents like moltbot (clawdbot).
 
-## 6. [DeepSeek-OCR-2](https://github.com/deepseek-ai/DeepSeek-OCR-2)
-> Visual Causal Flow
+## 6. [ext-apps](https://github.com/modelcontextprotocol/ext-apps)
+> Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
 
-## 7. [wooyun-legacy](https://github.com/tanweai/wooyun-legacy)
-> wooyun-legacy skill for claude code 
+## 7. [kimi-cli](https://github.com/MoonshotAI/kimi-cli)
+> Kimi Code CLI is your next CLI agent.
 
-## 8. [clawdbot-feishu](https://github.com/m1heng/clawdbot-feishu)
-> 无项目描述
+## 8. [ingress-nginx](https://github.com/kubernetes/ingress-nginx)
+> Ingress NGINX Controller for Kubernetes
 
-## 9. [beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)
-> 无项目描述
+## 9. [protobuf](https://github.com/protocolbuffers/protobuf)
+> Protocol Buffers - Google's data interchange format
 
-## 10. [LuxTTS](https://github.com/ysharma3501/LuxTTS)
-> A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime.
+## 10. [lobehub](https://github.com/lobehub/lobehub)
+> The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
 
